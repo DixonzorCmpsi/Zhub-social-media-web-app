@@ -1,0 +1,47 @@
+.login-container {
+    display: flex;
+    height: 100vh;
+  }
+  
+  .login-form-section {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem;
+    background-color: #ffffff;
+  }
+  
+  .login-logo h1 {
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .login-title {
+    font-weight: bold;
+    margin: 0.5rem 0 2rem;
+  }
+  
+  .social-login-options {
+    text-align: center;
+  }
+  
+  .social-icons {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+  }
+  
+  .social-icon {
+    font-size: 1.5rem;
+  }
+  
+  .login-image-section {
+    flex: 1;
+    background-image: url('/Users/liaspub/Downloads/Zhub/zhub/client/src/assets/M75LWWDDHZBBVCQSI5ZYELR7VU.jpg.avif');
+    background-size: cover;
+    background-position: center;
+  }
+  
